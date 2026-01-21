@@ -1,0 +1,107 @@
+
+
+
+
+
+    p {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 90px;
+        }
+
+        p {
+            position: absolute;
+            top: 30%;
+            left: 50%;
+            transform: translate(-50%,
+            -50%);
+    
+            }
+
+          
+
+
+
+            img {
+                position: absolute;
+                top: 20px;
+                left: 1200px;
+                }
+            
+
+
+            img {
+                width: 500px;
+                height: auto;
+            }
+
+
+            .page2 p {
+                font-size: 30px;
+
+              }
+
+              .page3 p {
+                font-size: 15px;
+
+                position: absolute;
+                top: 50%;
+                left: 45%;
+                transform: translate(-50%,
+                -50%);
+              
+              }
+
+
+              .page4 p {
+                font-size: 15px;
+
+                position: absolute;
+                top: 50%;
+                left: 45%;
+                transform: translate(-50%,
+                -50%);
+              
+
+              }
+
+
+              .page5  p {
+
+
+                font-size: 15px;
+
+                position: absolute;
+                top: 50%;
+                left: 45%;
+                transform: translate(-50%,
+                -50%);
+
+
+              }
+
+
+              .page6 p {
+
+              font-size: 25px;
+
+              position: absolute;
+              top: 50%;
+              left: 45%;
+              transform: translate(-50%,
+              -50%);
+
+
+
+              }
+
+
+
+        
+
+       
+
+
+
+
+
+           
